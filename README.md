@@ -1,7 +1,9 @@
-# ShieldUI jQuery Grid integration with Ruby on Rails
+# Shield UI jQuery Grid integration with Ruby on Rails
 
 ## Summary
 This repository demonstratrates the integration of the [Shield UI jQuery Grid Component](https://www.shieldui.com/products/grid) with Ruby on Rails. It can be used as a reference for building [Ruby on Rails](http://rubyonrails.org/) applications using the [ShieldUI JavaScript Framework](https://www.shieldui.com/).
+
+The full tutorial for building this sample is located [in this blog](https://www.shieldui.com/blogs/shieldui-jquery-grid-with-ruby-on-rails).
 
 ## License Information
 
